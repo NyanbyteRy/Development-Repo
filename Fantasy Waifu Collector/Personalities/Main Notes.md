@@ -15,7 +15,7 @@ Nature 2: High energy/octane and confident
 Nature 3: Seems to lack some focus (from note, can be serious or silly, depends on the role), supposed to be more... martial art focused
 Nature 4: Should be people that are veterans, dealt with a lot of stuff
 Nature 5: Seems to be protective of people, a weird proclivity for being straight to the point, supposed to be easygoing, laid back
-----
+~~
 Role 1: Thinks about ways to improve team (get in shape), hardworking and skilled
 Role 2: Very much cocky, and aggressive/bossy
 Role 3: Cares for team, Detailed, Smart/knowledgeable
