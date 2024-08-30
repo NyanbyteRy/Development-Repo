@@ -30,7 +30,7 @@ After discussing with SyKoHPaTH about a few of the personality names that needed
 |          | Nature 1     | Nature 2    | Nature 3    | Nature 4     | Nature 5     |
 | -------- | ------------ | ----------- | ----------- | ------------ | ------------ |
 | Role 1   | Demanding    | Mouthpiece  | Sensei      | Veteran      | Seed sower   |
-| Role 2   | Champ        | Energized   | Artist      | New Blood    | Activist     |
+| Role 2   | Loose Cannon | Energized   | Artist      | New Blood    | Activist     |
 | Role 3   | Critical Eye | Hyperactive | Blockbuster | Professional | Caretaker    |
 | Role 4   | Bullheaded   | Supportive  | Tea Drinker | Powerhouse   | Strongfast   |
 | Role 5   | Impatient    | Speedrunner | Veil        | Mercenary    | Health Nut   |
