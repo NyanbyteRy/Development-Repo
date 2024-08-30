@@ -35,3 +35,10 @@ After discussing with SyKoHPaTH about a few of the personality names that needed
 | Role 4   | Bullheaded   | Supportive  | Tea Drinker | Powerhouse   | Strongfast   |
 | Role 5   | Impatient    | Speedrunner | Veil        | Mercenary    | Health Nut   |
 | Role 6   | Arsonist     | Filterless  | Loner       | Old Gun      | Ecoterrorist |
+
+
+There are also several unique personality types that I will be creating, and updating this list accordingly
+Robot Catgirl (for R1L3Y waifu)
+Almost Broken (for Trash-chan and potentially other almost broken waifus)
+Antagonist (for Goddess of Dragons)
+More to come, probably
